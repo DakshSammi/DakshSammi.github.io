@@ -1,0 +1,103 @@
+
+
+DAKSHSAMMI
+daksh21459@iiitd.ac.in | github.com/dakshsammi | daksh-sammi | DakshSammi.github.io | +917982963117
+S-36/33–35,Lane36,DLFCityPhaseIII,Gurugram,Haryana,India
+AboutMe
+DesignedanddeployedscalablebiomedicalknowledgegraphsystemswithautomatedNLP-drivenETLpipelinesprocessing100K+pub-
+licationsandclinicalrecords. Achievedthe2ndprizeattheBikeChallengeatLLM-TEXT2KGWorkshop(ESWC’2026). PublishedinER
+2025,ESWC2026,submittedinBDA2026,peer-reviewedjournalmAbs,andsubmittedinIEEEJBHI2026.Expertisespansgraphneural
+networks,ontologyengineering,RAGsystems,andend-to-endfeatureengineeringpipelinesinC++,PythonandSQL.
+Education
+IndraprasthaInstituteofInformationTechnology,Delhi(IIITD)2021–2025
+B.Tech.Honors,DistinguishedGraduate(ComputerScienceandBiosciences)CGPA:8.32/10
+Dean’sListAwardee
+OPGWorldSchool,Dwarka,NewDelhi2019–2021
+SeniorSecondary(CBSE,StandardXII,PCM)90%
+TechnicalSkills
+Expertise:MachineLearning,KnowledgeGraphs,OntologyModeling,NLP,RAG,LargeLanguageModels,BiomedicalDataAnalysis,ETL
+Pipelines,BiologicalImageProcessing
+Languages:Python,R,C++,C,Java,SQL,RDF,OWL,Turtle,JSON-LD,SPARQL
+Tools&Frameworks: Docker, AWS,MinIO,Dagster, ApacheAirflow, Flask, FastAPI,scikit-learn, NumPy, Pandas, OpenCV,PowerBI,
+Excel,Git,Neo4j,NetworkX,Protege,PostgreSQL,MySQL,NCBI,PDB,VSCode,Figma
+WorkExperience
+Research&DevelopmentExecutiveMay2025–Present
+MicrocrisprPvt.Ltd.(MerilLifeSciences)
+• Builtschema-firstbiomedicalknowledgegraphsystemwithautomatedNLP-drivenETLpipelinesprocessing100K+publications,grants
+andclinicaltrialsdata;engineeredtime-seriesforecastingmodelforjournalgrowthpredictions(PubMedmetadata).
+• ArchitectedmultipleagenticAIsystems:(1)automatedGEOsampledatacuration(GSE/GSMlevel),(2)createddrugrepositioningmodel
+usingGNNs(GraphSAGE,GAT,GIN,etc.),(3)ongoingagenticAIbasedbioinformaticianautomationfordiseaseandtargetdiscovery,
+(4)entityextraction,knowledgegraphconstruction,andontology-basedsemanticlabelingwithLLM-poweredreportgeneration.
+• WorkingonimageenhancementtoimproveH&Ebasedlowresolutionslidestohighresolutionusingvariouslayersofmodelsforspatial
+transcriptomicsbaseddownstreamtasks.
+• DesignedantibodydevelopabilityML/DLensemblemodelpredictingthermostability,hydrophobicity,titer,andpolyreactivity;ranked
+top-5onGinkgoleaderboardwith8+models.PublishedinmAbsJournal(Feb2026):doi.org/10.1080/19420862.2026.2634216
+PartTimeResearchInternJune2026–August2026
+Advisors:Dr.SanjuTiwari,ShardaUniversityandDr.MayankKejriwal,UniversityofSouthernCalifornia
+• WorkedonbenchmarkingOCRs,VLMs,andhybridpipelinesforIndianMedicalHandwrittenPrescriptionsandshowedhowthereis
+stillanaccuracygapforrawextraction.SubmittedatBDA2026.
+• Sub-reviewedpapersatQuaLLM-KG2026underDr.SanjuTiwari.
+• Workingoncreatingaknowledge-groundedagenticframeworkthatintegratesextraction,semanticnormalization,andmedicalontolo-
+giestotransformhandwrittenrecordsintotraceableclinicalinformation.TargettosubmitatIEEEJBHIJournal(IF7.6).
+AI/MLInternMay2024–Jul2024
+VaidyaRx
+• Engineered ETL pipelines for antimicrobial resistance (AMR) research: normalized 10K+ prescription records from heterogeneous
+sources(doctors,patients,pharmacies,diagnostics)intocurateddatasetsachieving95%dataqualityforclinicalstudies.
+• ArchitectedLLM-poweredRAGchatbotusingBotPresswithcustomdomainknowledgebase;deployedacrossproductwebsiteand
+mobileapp,serving5K+userquerieswithcontextualmedicationinformation.
+• Implementedsmartmedicationremindersystemwithrule-basednotificationsintegratedacrosspatientjourneys; achieved40%im-
+provementinmedicationadherencetracking.
+• Developedend-to-endhandwrittenprescriptionparserwithOCRpreprocessingandclinicalentityextraction;integratedONDCAPIs
+enabling20+pharmacynetworkintegrations.
+StudentExperience
+UndergraduateResearcher,KrACRLab,IIITDSep2023–Jun2025
+Guides:Dr.RaghavaMutharaju,Dr.CoganShimizu(WrightStateUniversity)
+Designedandimplementedontologyqualityevaluationframeworkwith15+heterogeneousmetrics;builtLLM-poweredrecommendation
+engineusingLlama/GPT-4forautomatedimprovementsuggestions;resultedinA-levelpublicationatER2025conference. PaperLink:
+
+https://doi.org/10.1007/978-3-032-08623-5_21
+UndergraduateResearcher,ComplexSystemsLab,IIITDAug2024–Jun2025
+Guide:Dr.GaneshBagler
+Engineeredcomprehensivefoodontologyfrom118,000+recipes(RecipeDB,FlavorDB);modeled2K+flavormoleculesandingredient
+relationships;builtsemanticRAG-basedchatbotachieving89%recipe-flavorpredictionaccuracyforculinaryapplications.
+TeachingAssistant,ProbabilityandStatistics(MTH201),IIITDJan2025–Jun2025
+Designedanddeliveredweeklytutorialsessionsfor150+undergraduatestudents;created8problemsetscoveringprobabilitytheory,
+hypothesistesting,andstatisticalinference;graded600+assignmentswithdetailedfeedback.
+Projects
+Onto-Insight:OntologyQualityEvaluationwithLLM-PoweredRecommendationsJan2024–Feb2025
+B.Tech.thesisatKrACRLab|Guide:Dr.RaghavaMutharaju
+Engineeredscalablesystemevaluatingontologyqualityacross15+metrics; builtLLM-poweredsuggestionengineusingLlama/GPT-4
+forautomatedimprovementrecommendations. Publishedin44thInternationalConferenceonConceptualModeling(ER2025). Code:
+github.com/kracr/onto-insight.
+FoodOntologyDevelopmentAug2024–Sep2024
+ComplexSystemsLab,IIITD|Guide:Dr.GaneshBagler
+Built comprehensive food ontology modeling 118,000+ recipes with 2K+ flavor molecule relationships from RecipeDB and FlavorDB.
+DevelopedsemanticRAG-basedrecommendationsystemachieving89%accuracy.Code:github.com/cosylabiiit/FoodOnt.Submittedat
+FOIS2025.
+Leadership&Involvement
+Coordinator,BioBytesClub,IIITDJul2023–Aug2024
+Foundedandledcomputationalbiologyclubattracting50+members;organized12technicalworkshopsonMLinbioinformatics,ontolo-
+gies,andgenomics;mentored15studentsontheirundergraduateresearchprojects.
+DesignTeamHead,IIITDelhiAug2022–Jul2023
+Ledvisualdesignstrategyfor20+instituteevents;createdbrandguidelinesadoptedcampus-wide;designed50+promotionalmaterials
+achieving20%increaseineventattendancemetrics.
+CoreTeamMember,GoogleDeveloperStudentClubs,IIITDelhiSep2022–May2024
+Co-organized8technicalworkshops(webdev,ML,cloud)attracting400+cumulativeattendees; mentoredstudentsonGCPprojects;
+hosted2hackathonswith100+participants.
+ContentTeamHead,FinnexiaFinanceClub,IIITDMay2022–May2023
+Produced24educationalarticlesonquantitativefinance,MLintrading,time-seriesforeacstinganddatascience;grewsocialmediareach.
+Volunteer,TeachForIndiaJan2024–Mar2024
+Mentored30underprivilegedhighschoolstudentsinscienceandquantitativereasoning;designed15interactivelessons;improvedstu-
+dentsciencescoresbyaverageof12%.
+NotableAchievements
+• ConferencePublication(A-level):“Onto-Insight:OntologyQualityEvaluationwithLLM-PoweredRecommendations”at44thInterna-
+tionalConferenceonConceptualModeling(ER2025)|doi.org/10.1007/978-3-032-08623-5_21
+• JournalPublication:“GinkgoDatapointsAntibodyDevelopabilityCompetitionOutcomes:LimitedModelPerformanceandDataStan-
+dardization”inmAbsJournal(February2026)|doi.org/10.1080/19420862.2026.2634216
+• 1stPlace,TBOVoyageHack—HealthcareHackathon(Prize:Rs.5,00,000)
+• 2ndPlace,SEEDGlobalHackathon(BostonUniversity&GeorgeWashingtonUniversity)
+• 2ndPlace,BiKEChallengeatESWC’2026(LLM-TEXT2KGWorkshop)
+• 2ndPlace,Anveshan2.0Hackathon(Prize:Rs.40,000)
+• 3rdPlace,HardingeHackathon(Security&DefenseChallenge)
+• NTSEScholar,NationalTalentSearchExaminationscholarship(top1%ofIndia)
+• ResearchRepositories:DiabeticFootUlcerPred,voyageVR,OpenLife
